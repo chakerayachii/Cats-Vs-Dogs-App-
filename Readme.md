@@ -1,7 +1,5 @@
 # Dog or Cat
 
-
-
 A simple Flask App that can classify an image as Dog or Cat
 using a convolutional neural network model. I build this just
 because i wanted to get out of the jupyter notebook and
@@ -13,13 +11,13 @@ I
 
 <p align="center">
 
-<img src='DogorCat-master/static/img/home.png'>
+<img src='DogorCat/static/img/home.png'>
 
 </p>
 
 <p align="center">
 
-<img src='DogorCat-master/static/img/predict.png'>
+<img src='DogorCat/static/img/predict.png'>
 
 </p>
 
@@ -39,4 +37,3 @@ credit to @LukaszMalucha for his help
 
 - https://github.com/LukaszMalucha/Cat-vs.-Dog-Classifier
 - https://github.com/mvmanh/dog-cat-classification
-
